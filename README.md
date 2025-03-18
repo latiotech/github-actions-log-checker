@@ -18,6 +18,18 @@ python githubactionsearch.py https://github.com/your-org
 python githubactionsearch.py https://github.com/your-org -r your-repo -f
 ```
 
+## Default Settings
+
+When run with no options, the script:
+- Scans all repositories in the specified organization
+- Examines only the 30 most recent workflow runs per repository (1 page)
+- Limits scanning to 5 different workflow types per repository
+- Uses 10 parallel workers for processing
+- Outputs results to "results.txt" in the current directory
+- Automatically detects both single and double base64-encoded secrets
+
+To override these settings, use the command-line options described below.
+
 ## Requirements
 
 - Python 3.x
