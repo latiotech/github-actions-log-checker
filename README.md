@@ -63,6 +63,19 @@ The script makes multiple GitHub API calls:
 
 ## Usage Examples
 
+### Scanning for Known Attacks
+
+```bash
+# Reviewdog attack (March 11, 2024)
+python githubactionsearch.py https://github.com/your-org --start-date 2024-03-10 --end-date 2024-03-12
+
+# tj-actions attack (March 14, 2024)
+python githubactionsearch.py https://github.com/your-org --start-date 2024-03-13 --end-date 2024-03-15
+
+# Both attack windows
+python githubactionsearch.py https://github.com/your-org --start-date 2024-03-10 --end-date 2024-03-15
+```
+
 ### Common Scenarios
 
 ```bash
@@ -89,19 +102,6 @@ python githubactionsearch.py https://github.com/your-org --start-date 2023-01-01
 
 # Custom output file
 python githubactionsearch.py https://github.com/your-org -o custom-results.txt
-```
-
-### Scanning for Known Attacks
-
-```bash
-# Reviewdog attack (March 11, 2024)
-python githubactionsearch.py https://github.com/your-org --start-date 2024-03-10 --end-date 2024-03-12
-
-# tj-actions attack (March 14, 2024)
-python githubactionsearch.py https://github.com/your-org --start-date 2024-03-13 --end-date 2024-03-15
-
-# Both attack windows
-python githubactionsearch.py https://github.com/your-org --start-date 2024-03-10 --end-date 2024-03-15
 ```
 
 ## Options
