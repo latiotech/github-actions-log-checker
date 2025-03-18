@@ -1,0 +1,226 @@
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: cG9zdGdyZX...
+  Decoded: postgresql://user:59a4add3490bcadc@database.example.com:5
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: bW9uZ29kYi...
+  Decoded: mongodb+srv://user:bfc9482c1055ce4343db@cluster0.mongodb.
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [GITHUB_TOKEN]
+  Encoded: IEFjY2Vzcw...
+  Decoded:  Access
+GITHUB_TOKEN=gho_900c63182152900c63aed119e2baf318
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: UWFVY0xTan...
+  Decoded: QaUcLSjszyiQWWsC5AO1Bsw+yKi+UtgEDPULdkwii6ICQg9N8E7MiVW5k
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [API_KEY]
+  Encoded: cmF0aW9uIG...
+  Decoded: ration file content:
+{
+  "apiKey": "c9d2b36a9f2daed4a73d6
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: N0ErOUxBWm...
+  Decoded: 7A+9LAZb55ubDJeJdkgi+J7Pfw096Rm/HhiBS6cdYTKI2CRzleLinsv0F
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: dlVRS0JnRz...
+  Decoded: vUQKBgG8L+p6YsvgvgrDA6g7F5z9m8C5xlA0wOqbvhxo+tiNLfnWaQ5Cd
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: UUFEZ2dFUE...
+  Decoded: QADggEPADCCAQoCggEBALPyVB5VHAn1qAMLEx6DJVuHoMpSpAyhszjniU
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [API_KEY]
+  Encoded: CmRhdGE6Ci...
+  Decoded: 
+data:
+  api_key: N2JjNjNmZTA5ZjBlNWU2YjI1NmY5NmNlYTgyZTM
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: ZXlKaGJHY2...
+  Decoded: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ewogICJzdWIiOiAiMTIz
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: bVJwUW43Qk...
+  Decoded: mRpQn7BADAW/IEhHrtpQnbmCB+TpeVNl5XRQAAAIEAt0Ku29yvSYDb6c5
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: dEQ0VGI4ZV...
+  Decoded: tD4Tb8eP5RJT7PiCzIePDzHHa3HssnrntG7IfFoIR4hYKsLJ9elG5lVnz
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: bXlzcWw6Ly...
+  Decoded: mysql://admin:f25d565d80c31f08@mysql.example.com/database
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [GITHUB_TOKEN]
+  Encoded: dG9rZW46IG...
+  Decoded: token: ghp_16a14aae627eecc73af2c6cb9e0ef391eb8ede8e
+
+Base
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: d0VBQVFBQU...
+  Decoded: wEAAQAAAQEAmCVsT8wpvqYMhxdtgkKn5D1jpeE+CzvdpT/xKbGuAZNkYd
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: WVRDZ2VITk...
+  Decoded: YTCgeHNHV0MA8GA1UdEwEB/wQFMAMBAf8wDQYJKoZIhvcNAQELBQADggE
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: ZE1IUW1acG...
+  Decoded: dMHQmZpcumushDEYZtCkNFasp9dKlbStQEgdfFWfR4rVjReMSnAIuFAt8
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: Snp6NHQrbj...
+  Decoded: Jzz4t+n3fppU3OF4O1KmJuAcA3zEYyWPSMVB/Rjjh3WZsSlv255EdeK5G
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: WjJod1h6Zz...
+  Decoded: Z2hwXzg1ZWYyZWZkODE4YTczOGY4NTY3Y2JhZWNhNjQ4NWY0OTVmNTljN
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: bmV0L3Rlc3...
+  Decoded: net/test?retryWrites=true&w=majority
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: TVRVeE5qSX...
+  Decoded: MTUxNjIzOTAyMiwKICAiZXhwIjogMTcxODU3NzAyMiwKICAiaXNzIjogI
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [API_KEY]
+  Encoded: IyBBUEkgQ2...
+  Decoded: # API Configuration
+API_KEY=4683dbc98d9d9ce95c13fdebefa75
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [AWS_ACCESS_KEY]
+  Encoded: ewogICJBY2...
+  Decoded: {
+  "AccessKey": "AKIA7751D8E5B1F4C187",
+  "SecretKey": "
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
+
+================================================================================
+POSSIBLE SECRET [POTENTIAL_CREDENTIAL]
+  Encoded: cWlGL0xIYX...
+  Decoded: qiF/LHaylhCnw4f3Fov4EC/I0BsP7gkCxHHhR70xqnlgDFj2U7FB/Iv8P
+  Repo: latiotech/insecure-kubernetes-deployments
+  Run: https://github.com/latiotech/insecure-kubernetes-deployments/actions/runs/13912402451
+  File: 0_generate-fake-secrets.txt
+================================================================================
